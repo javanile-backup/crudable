@@ -4,10 +4,28 @@
     "version": "0.0.1",
     "license": "MIT",
     "type": "application",
-    "authors": [{ "name": "Francesco Bianco", "email": "bianco@javanile.org" }],
-    "repositories": [{ "type": "git", "url": "https://github.com/javanile/crudable" }],
-    "autoload": {"psr-4": { "Javanile\\Crudable\\": "src/Crudable" }},
-    "autoload-dev": {"psr-4": { "Javanile\\Crudable\\Tests\\": "tests" }},
+    "authors": [
+        {
+            "name": "Francesco Bianco",
+            "email": "bianco@javanile.org"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/javanile/crudable"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Javanile\\Crudable\\": "src/Crudable"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Javanile\\Crudable\\Tests\\": "tests"
+        }
+    },
     "require": {
         "php": "^5.6.0 || >=7.0 <7.2",
         "slim/slim": "4.x-dev"
