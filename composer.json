@@ -1,7 +1,7 @@
 {
     "name": "javanile/crubable",
     "description": "Ready to use CRUD Server to store data into MySQL",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "type": "application",
     "authors": [

@@ -65,3 +65,7 @@ composer.lock
 
 # PHPStorm
 .idea/
+
+# Lamp
+/lamp/
+docker-compose.yml
