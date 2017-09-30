@@ -1,7 +1,7 @@
 {
     "name": "javanile/crubable",
     "description": "Ready to use CRUD Server to store data into MySQL",
-    "version": "0.0.21",
+    "version": "0.0.22",
     "license": "MIT",
     "type": "application",
     "authors": [
@@ -31,7 +31,8 @@
         "slim/slim": "4.x-dev",
         "javanile/moldable": "^0.0.1",
         "illuminate/database": "^5.5",
-        "danielstjules/stringy": "^3.1"
+        "danielstjules/stringy": "^3.1",
+        "monolog/monolog": "^1.23"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
