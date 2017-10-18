@@ -28,7 +28,7 @@
     },
     "require": {
         "php": "^5.6.0 || >=7.0 <7.2",
-        "slim/slim": "4.x-dev",
+        "slim/slim": "^3.8.1",
         "javanile/moldable": "^0.0.1",
         "illuminate/database": "^5.5",
         "danielstjules/stringy": "^3.1",
